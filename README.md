@@ -28,3 +28,8 @@ The data was collected by Ville de Montreal and represented only a sample of bus
 * if there is indication that certain factors affect the commerce more on the first wave
 * WordCloud on other challenges mentioned
 
+## References
+J'informe les commercants. Ville de Montreal, Économie et entreprises. Data extracted via the following link: 
+https://donnees.montreal.ca/dataset/informe-commercants
+
+
