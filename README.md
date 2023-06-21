@@ -18,15 +18,12 @@ The data was collected by Ville de Montreal and represented only a sample of bus
 * If business is interested in urban delivery services provided by Ville de Montreal? 
 
 ## Deliverables
-1. Survival rate of the business
-* Analyzing the survival rate between waves of survey
-
-2. Factors affecting the survival rates
+Factors affecting the survival rates
 * If there is relationship between qualitative factors (challenges) and risk of closure using Chi-square test
 * Factors/challenges that have high indication of closure. Classification methods: KNN, Logistic regression, LDA, and QDA
 * If locations of the establishment have significant effects on closure rates
 * if there is indication that certain factors affect the commerce more on the first wave
-* WordCloud on other challenges mentioned
+
 
 ## References
 J'informe les commercants. Ville de Montreal, Économie et entreprises. Data extracted via the following link: 
