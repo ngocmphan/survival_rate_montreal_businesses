@@ -24,6 +24,13 @@ Factors affecting the survival rates
 * If locations of the establishment have significant effects on closure rates
 * if there is indication that certain factors affect the commerce more on the first wave
 
+## Tools: 
+The following Python libraries below: 
+* Pandas
+* Scikit-Learn
+* Scipy
+* Category_encoders
+* WordCloud
 
 ## References
 J'informe les commercants. Ville de Montreal, Économie et entreprises. Data extracted via the following link: 
