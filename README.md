@@ -1,5 +1,5 @@
 # survival_rate_montreal_businesses
-- Discontinued project - 
+~ Discontinued Project ~
 ## Problem statement
 The topic is to explore the challenges affecting survival rate during the pandemic and financially difficult situation. The challenges include operational factors and financial support & subsidy awareness. 
 
